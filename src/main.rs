@@ -1,8 +1,4 @@
-use anyhow::Result;
 use clap::Parser;
-use fs_extra::file::{copy, CopyOptions};
-use log::{error, info};
-use std::fs;
 use std::path::{Path, PathBuf};
 use walkdir::WalkDir;
 
