@@ -36,4 +36,5 @@ SpartanBytes is a powerful file synchronization tool designed to help you keep y
 - Provide a web UI or REST API for managing/scheduling syncs.
 - Integrate into a larger backup/archiving system.
 - Build a TUI with ratatui for terminal-based control.
-- 
+- XX1
+- XX2
